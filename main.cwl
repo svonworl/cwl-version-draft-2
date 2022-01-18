@@ -1,4 +1,4 @@
-cwlVersion: "sbg:draft-2"
+cwlVersion: draft-2
 class: Workflow
 inputs:
 outputs:
